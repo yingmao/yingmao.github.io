@@ -24,12 +24,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+
 Dr. Ying Mao
-is a tenured Associate Professor in the
-<a href="https://www.fordham.edu/info/20344/computer_and_information_science" style="color:#FC2146"> Department of Computer and
-Information Science </a>
-at <a href="https://www.fordham.edu/" style="color:#FC2146">Fordham University</a> in New York City.
-In addition, he serves as the Associate Chair for Undergraduate Studies. 
+is a tenured Associate Professor in the [Department of Computer and
+Information Science](https://www.fordham.edu/info/20344/computer_and_information_science)
+at [Fordham University](https://www.fordham.edu/) in New York City.
+In addition, he serves as the Associate Chair for Undergraduate Studies.
+
 <p></p>
 He received his Ph.D. in Computer Science from the
 <a href="https://www.umb.edu" style="color:#216DFC">University of Massachusetts Boston </a>
@@ -40,12 +41,11 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
  <p></p>
  His research interests mainly focus on the fields of cloud scheduling, resource management, quantum-based systems and applications.
 
-
 -------------------------------
 
+<p></p>
 <!--
 ---
-<p></p>
  <div align="justify">
  <img src="/assets/img/new-icon.png" alt="New Icon" style="width:50px;height:27px;">
  <strong>[Opportunities]:</strong>
