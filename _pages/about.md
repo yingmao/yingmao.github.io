@@ -40,7 +40,8 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
 <a href="http://www.buffalo.edu/" style="color:#216DFC"> The State University of New York at Buffalo </a>.
 
  <p></p>
- His research interests mainly focus on the fields of cloud scheduling, resource management, quantum-based systems and applications.
+ His research interests mainly focus on the fields of quantum-based systems, quantum-classical co-optimizations, quantum hardware-software co-design,
+ cloud scheduling, and resource management. His projects have been funded by National Science Foundation, Google, NVIDIA, Microsoft and etc. More information can be found in his [CV](/assets/pdf/CV_YingMao_web.pdf) and a list of publications can be found on his [Google Scholar](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
 
 -------------------------------
 
