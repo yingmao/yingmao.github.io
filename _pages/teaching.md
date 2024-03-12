@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching History.
+description:
 nav: true
 rank: 5
 ---
@@ -12,11 +12,12 @@ rank: 5
 ----
 
 ### Teaching History
+
 - CISC 6935 Distributed Systems (@Fordham, Taught regularly from 2022)
 - CISC 5950 Big Data Programming (@Fordham, Taught regularly from 2018)
 - CISC3500: Database System (@Fordham, Taught regularly from 2019)
 - CISC4615: Data Communication and Network (@Fordham, Taught regularly 2018)
-- Seminar and Project based courses
+- Seminar and Project based courses (@Fordham, Taught regularly 2018)
 
 ----
 
