@@ -49,7 +49,7 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
  <div align="justify">
  <img src="/assets/img/new-icon.png" alt="New Icon" style="width:50px;height:27px;">
  <strong>[Opportunities]:</strong>
- <a style="color:#FC2146"> Our team has Ph.D. openings with full financial supports. </a> We are looking for self-motivated students to work on quantum-classical system designs, optimizations and applications. Please find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science" style="color:blue;">link</a>. You are encouraged to contact me through email if interested.
+ <a style="color:#FC2146"> Our team has Ph.D. openings with full financial supports. </a> We are looking for self-motivated students to work on quantum-classical system designs, optimizations and applications. Please find our Ph.D. in Computer Science program from this link. You are encouraged to contact me through email if interested.
  </div>
 ---
 -->
