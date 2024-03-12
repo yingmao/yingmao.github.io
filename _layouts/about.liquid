@@ -42,9 +42,11 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
+      <h2>What's New</h2>
+      <h5>      
+        <!-- <a href="{{ '/news/' | relative_url }}" style="color:#A569BD">...More News</a> -->
+      <a href="/news/">.....More News</a> 
+      </h5>
       {% include news.liquid limit=true %}
     {% endif %}
 
