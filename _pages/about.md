@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-rank: 1
+nav_order: 1
 subtitle: <a href="https://www.fordham.edu/">Fordham University</a>, New York, NY.
 
 

@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:
 nav: true
-rank: 4
+nav_order: 4
 ---
 
 <div class="bibbase_style">

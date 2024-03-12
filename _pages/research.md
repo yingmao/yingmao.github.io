@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description:
 nav: true
-rank: 3
+nav_order: 3
 ---
 
 Dr. Mao's research interests mainly focus on the fields of advanced computing systems, such as cloud computing, data-intensive platforms, quantum computing and quantum-based applications.
