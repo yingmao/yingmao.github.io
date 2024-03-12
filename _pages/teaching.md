@@ -7,19 +7,16 @@ nav: true
 rank: 5
 ---
 
-## Current Semester (Spring 2021)
-
-- [CISC 5950 Big Data Programming](5950.html)
-- CISC3500: Database Systems
 
 
 ----
 
 ### Teaching History
+- CISC 6935 Distributed Systems (@Fordham, Taught regularly from 2022)
 - CISC 5950 Big Data Programming (@Fordham, Taught regularly from 2018)
 - CISC3500: Database System (@Fordham, Taught regularly from 2019)
 - CISC4615: Data Communication and Network (@Fordham, Taught regularly 2018)
-
+- Seminar and Project based courses
 ----
 
 - CSC470: Mobile Application Development (@ TCNJ)
