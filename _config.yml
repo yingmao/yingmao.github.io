@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: This is a Test # the website title (if blank, full name will be used instead)
-first_name: This
-middle_name: Is
-last_name: Test
+title: Ying Mao # the website title (if blank, full name will be used instead)
+first_name: Ying
+middle_name:
+last_name: Mao
 email: 
 description:
 footer_text:
