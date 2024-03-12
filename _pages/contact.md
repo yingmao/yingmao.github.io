@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 description:
 nav: true
-rank: 1
+rank: 6
 ---
 
 ___
