@@ -44,7 +44,7 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
  cloud scheduling, and resource management. 
  
  <p></p>
- His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. More information can be found in [his CV](/assets/pdf/CV_YingMao_web.pdf) and a list of publications can be found on his [Google Scholar](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
+ His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. More information can be found in [`his CV`](/assets/pdf/CV_YingMao_web.pdf) and a list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
 
 -------------------------------
 
