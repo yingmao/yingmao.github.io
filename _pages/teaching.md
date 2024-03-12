@@ -17,6 +17,7 @@ rank: 5
 - CISC3500: Database System (@Fordham, Taught regularly from 2019)
 - CISC4615: Data Communication and Network (@Fordham, Taught regularly 2018)
 - Seminar and Project based courses
+
 ----
 
 - CSC470: Mobile Application Development (@ TCNJ)
