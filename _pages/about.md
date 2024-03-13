@@ -30,7 +30,7 @@ Dr. Ying Mao
 is a tenured Associate Professor in the [`Department of Computer and
 Information Science`](https://www.fordham.edu/academics/departments/computer-and-information-science/)
 at `Fordham University` in New York City.
-In addition, he serves as the [`Associate Chair for Undergraduate Studies`](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/).
+Currently, he serves as the [`Associate Chair for Undergraduate Studies`](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/).
 
 <p></p>
 He received his Ph.D. in Computer Science from the
@@ -40,11 +40,11 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
 <a href="http://www.buffalo.edu/" style="color:#216DFC"> The State University of New York at Buffalo </a>.
 
  <p></p>
- His research interests mainly focus on the fields of quantum-based systems, quantum-classical co-optimizations, quantum hardware-software co-design,
+ His research interests mainly focus on computing systems and applications, including quantum-based systems, quantum-classical co-optimizations, quantum hardware-software co-design,
  cloud virtualization, resource management and system visualization. 
  
  <p></p>
- His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. More information can be found in [`his CV`](/assets/pdf/CV_YingMao_web.pdf) and a list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
+ His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. More information can be found in [`his CV`](/assets/pdf/CV_YingMao_web.pdf)(selected experiences / infrequently updated) and a list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
 
 -------------------------------
 
