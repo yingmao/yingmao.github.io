@@ -29,7 +29,7 @@ social: false # includes social icons at the bottom of the page
 Dr. Ying Mao
 is a tenured Associate Professor in the [`Department of Computer and
 Information Science`](https://www.fordham.edu/academics/departments/computer-and-information-science/)
-at `Fordham University` in New York City.
+at [`Fordham University`](https://www.fordham.edu/) in New York City.
 Currently, he serves as the [`Associate Chair for Undergraduate Studies`](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/).
 
 <p></p>
