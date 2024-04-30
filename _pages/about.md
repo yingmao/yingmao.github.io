@@ -49,6 +49,7 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
 <p></p>
 
 
+-------------------------------
 <p></p>
  <div align="justify">
  <img src="/assets/img/new-icon.png" alt="New Icon" style="width:50px;height:27px;">
