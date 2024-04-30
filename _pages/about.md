@@ -41,7 +41,10 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
 
  <p></p>
  His research interests mainly focus on computing systems and applications, including quantum-based systems, quantum-classical co-optimizations, quantum hardware-software co-design,
- cloud virtualization, resource management and system visualization. 
+ quantum learning systems, cloud virtualization, resource management and system visualization. 
+
+ -------------------------------
+
  
  <p></p>
  His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. A list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
