@@ -43,20 +43,16 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
  His research interests mainly focus on computing systems and applications, including quantum-based systems, quantum-classical co-optimizations, quantum hardware-software co-design,
  quantum learning systems, cloud virtualization, resource management and system visualization. 
 
- -------------------------------
-
  
  <p></p>
  His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. A list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
 <p></p>
 
 
--------------------------------
-
-
 <p></p>
  <div align="justify">
  <img src="/assets/img/new-icon.png" alt="New Icon" style="width:50px;height:27px;">
- <strong>[Opportunities]:</strong>
  <a style="color:#FC2146"> Our team has Ph.D. openings with full financial supports. </a> We are looking for self-motivated students to work on quantum-classical system designs, optimizations and applications. Please find our Ph.D. in Computer Science program from this link. You are encouraged to contact me through email if interested.
  </div>
+<p></p>
+-------------------------------
