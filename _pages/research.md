@@ -7,12 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+<div align="justify">
 Over the past decade, advancements in learning-based systems have transformed industries, from scientific data processing to commercial applications. These achievements stem from innovations in algorithms, increased computational power, and system designs. Dr. Mao's current research focuses on Scalable Computing Systems, addressing challenges in both classical and quantum domains. The following figure presents a summary of my research. Dr. Mao aims to push the boundaries of quantum-classical computing through resource-efficient algorithms, novel architectures, and system-level optimizations, with a vision to enhance both academic research and real-world applications.
-
+</div>
 
 
 <p></p>
- <img src="/assets/img/research-overview.png" style="width:700px;">
+ <img src="/assets/img/research-overview.png" class="center" style="width:750px;">
 <p></p>
 
 
