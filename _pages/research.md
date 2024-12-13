@@ -18,7 +18,7 @@ Dr. Mao's investigate the following research problems.
 
 
 <p></p>
- <img src="/assets/img/research-overview.png" style="width:380px;">
+ <img src="/assets/img/research-overview.png" style="width:500px;">
 <p></p>
 
 
@@ -27,7 +27,7 @@ Dr. Mao's investigate the following research problems.
 #### Quantum systems and applications
 
 <div align="justify">
-The fast development of quantum computing has pushed classical designs to the quantum stage, which breaks the physical bound for deep learning applications. For instance, Google demonstrated quantum Supremacy using a 53-qubit quantum computer, where it spent 200 seconds to complete a task that would cost 10,000 years on the world’s largest classical computer. Due to the endless potential, quantum-based deep learning architectures attract increasing attention in both industry and academia, in hopes that certain systems might offer a quantum speedup. In this field, we develop two quantum based deep learning systems for classifications and generative adversarial networks.
+As the limits of classical computing become apparent in the post-Moore’s Law era, quantum computing offers a transformative alternative. Platforms like IBM-Q, Amazon Braket, and Microsoft Azure have opened new avenues for exploring quantum-classical synergies. My research focuses on leveraging quantum computing to address the challenges of model scalability and resource constraints in deep learning.  
 </div>
 
 - We developed a Quantum GAN (QuGAN), a Generative Adversarial Network (GAN) through quantum states, to improve the important and successful deep learning applications (e.g. Selfies to Emojis, 3D Object Generation, and Face Aging). With the potential quantum speedup, we designed and implemented QuGAN architecture that provides a stable convergence of the model trained and tested on the real datasets. Compared to classical GANs and other quantum-based in the literature,  QuGAN achieved significantly better results in terms of training efficiency, up to a 98% parameter count reduction,  as well as the measured similarity between the generated distribution and original distribution, with up to a 125% improvement.
