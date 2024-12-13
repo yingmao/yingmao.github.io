@@ -12,7 +12,7 @@ Over the past decade, advancements in learning-based systems have transformed in
 
 
 <p></p>
- <img src="/assets/img/research-overview.png" style="width:750px;">
+ <img src="/assets/img/research-overview.png" style="width:700px;">
 <p></p>
 
 
@@ -24,7 +24,8 @@ Over the past decade, advancements in learning-based systems have transformed in
 As the limits of classical computing become apparent in the post-Moore’s Law era, quantum computing offers a transformative alternative. Platforms like IBM-Q, Amazon Braket, and Microsoft Azure have opened new avenues for exploring quantum-classical synergies. My research focuses on leveraging quantum computing to address the challenges of model scalability and resource constraints in deep learning.  
 </div>
 
-- We developed a Quantum GAN (QuGAN), a Generative Adversarial Network (GAN) through quantum states, to improve the important and successful deep learning applications (e.g. Selfies to Emojis, 3D Object Generation, and Face Aging). With the potential quantum speedup, we designed and implemented QuGAN architecture that provides a stable convergence of the model trained and tested on the real datasets. Compared to classical GANs and other quantum-based in the literature,  QuGAN achieved significantly better results in terms of training efficiency, up to a 98% parameter count reduction,  as well as the measured similarity between the generated distribution and original distribution, with up to a 125% improvement.
+- In the NISQ era, quantum computing faces significant constraints, including limited qubit availability, noise-prone devices, and inefficient single-tenant architectures. These limitations often lead to underutilized resources, long wait times, and restricted access to quantum capabilities. To address these challenges, my future research will focus on developing a multi-tenant quantum cloud system that incorporates circuit-cutting techniques and Kubernetes-based infrastructure. Circuit cutting enables the decomposition of large quantum circuits into smaller subcircuits that can be executed on resource-constrained quantum devices. This approach allows more efficient use of available hardware by enabling complex algorithms to run on smaller quantum systems, overcoming current scalability limitations. To further enhance efficiency, we integrate ML-based scheduling algorithms that leverage historical and real-time workload data to predict optimal task placements at each qubit’s level. These models will dynamically allocate qubits, maximizing throughput and minimizing contention in a shared environment. Together, these innovations aim to lower the barriers to quantum accessibility, enabling scalable, high-performance quantum cloud systems for diverse applications while making quantum computing more efficient and practical in the near term.
+
 
 <p style="text-align:center;">
 <img src="/assets/img/QuGAN.jpg" alt="New Icon" style="width:550px">
