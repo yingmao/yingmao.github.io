@@ -16,6 +16,12 @@ Dr. Mao's investigate the following research problems.
 
 - Cloud systems and applications: we build efficient cluster management algorithms for virtualized computing platforms, such as Docker and Kubernetes, to efficiently schedule the resources and improve the performance.
 
+
+<p></p>
+ <img src="/assets/img/research-overview.png" style="width:380px;">
+<p></p>
+
+
 ----
 
 #### Quantum systems and applications
