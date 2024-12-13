@@ -12,7 +12,7 @@ Over the past decade, advancements in learning-based systems have transformed in
 
 
 <p></p>
- <img src="/assets/img/research-overview.png" style="width:500px;">
+ <img src="/assets/img/research-overview.png" style="width:750px;">
 <p></p>
 
 
