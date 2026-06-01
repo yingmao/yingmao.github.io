@@ -41,7 +41,7 @@ Dr. Ying Mao
 is a tenured Associate Professor in the [`Department of Computer and
 Information Science`](https://www.fordham.edu/academics/departments/computer-and-information-science/)
 at [`Fordham University`](https://www.fordham.edu/) in New York City.
-Previously, he served as the Associate Chair for Undergraduate Studies. Currently, he is the [`Program Director for the Ph.D. in Computer Science`](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/) in the department. 
+Previously, he served as the Associate Chair for Undergraduate Studies. Currently, he is the [`Program Director for the Ph.D. in Computer Science`](https://www.fordham.edu/academics/departments/computer-and-information-science/academic-programs/graduate-programs/phd-in-computer-science/) in the department. 
 
 <p></p>
 He received his Ph.D. in Computer Science from the
@@ -51,12 +51,12 @@ Before that, he obtained the Master of Science in <a href="http://engineering.bu
 <a href="http://www.buffalo.edu/" style="color:#216DFC"> The State University of New York at Buffalo </a>.
 
  <p></p>
- His research interests mainly focus on computing systems and applications, including quantum-based systems, quantum-classical co-optimizations, quantum hardware-software co-design,
- quantum learning systems, cloud virtualization, resource management and system visualization. 
+ His research interests mainly focus on computing systems and applications, including quantum-based systems, quantum-classical co-optimizations, hardware-software co-design,
+ LLM systems, cloud virtualization, resource management and system visualization. 
 
  
  <p></p>
-His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft and etc. A list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
+His research has been supported by National Science Foundation, Google, NVIDIA, Microsoft, VentureWell and etc. A list of publications can be found on his [`Google Scholar`](https://scholar.google.com/citations?hl=en&user=s_oeuQUAAAAJ&view_op=list_works&sortby=pubdate) page.
 <p></p>
 
 
